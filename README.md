@@ -1,6 +1,7 @@
 # Elasticsearch Exporter [![Build Status](https://travis-ci.org/justwatchcom/elasticsearch_exporter.svg?branch=master)](https://travis-ci.org/justwatchcom/elasticsearch_exporter)
 [![Docker Pulls](https://img.shields.io/docker/pulls/justwatch/elasticsearch_exporter.svg?maxAge=604800)](https://hub.docker.com/r/justwatch/elasticsearch_exporter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/justwatchcom/elasticsearch_exporter)](https://goreportcard.com/report/github.com/justwatchcom/elasticsearch_exporter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch_exporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch_exporter?ref=badge_shield)
 
 Prometheus exporter for various metrics about ElasticSearch, written in Go.
 
@@ -236,6 +237,9 @@ Maintainers of this repository:
 * Christoph Oelmüller <christoph.oelmueller@justwatch.com> @zwopir
 
 Please refer to the Git commit log for a complete list of contributors.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch_exporter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch_exporter?ref=badge_large)
 
 ## Contributing
 
